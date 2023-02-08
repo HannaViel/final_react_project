@@ -21,7 +21,7 @@ export default function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          open-sourced on GitGub
+          open-sourced on GitHub
         </a>{" "}
         and{" "}
         <a
