@@ -11,6 +11,7 @@ export default function App() {
         <a
           href="https://github.com/HannaViel/final_react_project"
           target="_blank"
+          rel="noopener noreferrer"
         >
           open-sourced on GitGub
         </a>
